@@ -1,0 +1,38 @@
+#rad{
+    margin-left: 0.8em;
+}
+.rad{
+    margin-left: 2em;
+}
+.radios{
+    width: 15em;
+    height: 2em;
+    padding: 0.2em;
+    border-radius: 5px;
+    margin: 1em 0 1em 0;
+}
+.carta{
+    padding: 1em 0 1em 0;
+}
+.card-footer{
+    text-align: right;
+}
+.textfooter{
+    font-size: 0.8em;
+}
+.dolar{
+    position: absolute;
+    font-weight: bold;
+}
+.amount{
+    width: 22.1em;
+    margin-left: 0.5em;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+.form-row{
+    margin: 0.3em 1em 0em 1em !important;
+}
