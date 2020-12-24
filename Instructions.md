@@ -4,7 +4,7 @@ After building the HTML and CSS for this form, we need to make sure it prevents 
 
 To prevent a form submission we have to listen to the "submit" event that is triggered by the form itself when the user presses either: the enter/return key or the submit button.
 
-Here is a little more about preventing an event from occurring: [https://www.youtube.com/watch?v=I_fVO_NzT2g&t=401s](https://www.youtube.com/watch?v=I_fVO_NzT2g&t=401s)
+Here is a little more about preventing an event from occurring: [https://www.youtube.com/watch?v=I_fVO_NzT2g&t=401s]
 
 ![Form Validations Preview](https://github.com/breatheco-de/exercise-html5-form-validations/blob/master/preview.gif?raw=true)
 
